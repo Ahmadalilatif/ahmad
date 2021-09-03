@@ -1,0 +1,6 @@
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\ahmad\ahmad\bin\Debug\ahmad.exe.config
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\ahmad\ahmad\bin\Debug\ahmad.exe
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\ahmad\ahmad\bin\Debug\ahmad.pdb
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\ahmad\ahmad\obj\Debug\ahmad.csprojResolveAssemblyReference.cache
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\ahmad\ahmad\obj\Debug\ahmad.exe
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\ahmad\ahmad\obj\Debug\ahmad.pdb
